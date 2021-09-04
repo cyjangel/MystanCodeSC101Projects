@@ -7,16 +7,16 @@ Watch my *[DEMO VIDEOS~].\
 
 ## My SC101 Project Source Codes:
 * Warm up
-  * blur picture
+  * blur picture (https://github.com/cyjangel/MystanCodeSC101Projects/blob/main/SC101_Projects/warm_up/blur.py)
 * Drawing
-  * my drawing
+  * my drawing (https://github.com/cyjangel/MystanCodeSC101Projects/blob/main/SC101_Projects/drawing/my_drawing.py)
 * Break out game
-  * game
+  * game (https://github.com/cyjangel/MystanCodeSC101Projects/blob/main/SC101_Projects/break_out_game/breakout_extension.py)
 * Photoshop
-  * img background processing
+  * img background processing (https://github.com/cyjangel/MystanCodeSC101Projects/blob/main/SC101_Projects/my_photoshop/stanCodoshop.py)
 * Name graphs
-  * babyname graph
+  * babyname graph (https://github.com/cyjangel/MystanCodeSC101Projects/blob/main/SC101_Projects/name_graph/babynames.py)
 * Recursion test
-  * anagram
+  * anagram (https://github.com/cyjangel/MystanCodeSC101Projects/blob/main/SC101_Projects/recursion_test/anagram.py)
 * Boggle Game
-  * boggle game
+  * boggle game (https://github.com/cyjangel/MystanCodeSC101Projects/blob/main/SC101_Projects/boggle_game/boggle.py)
